@@ -1,0 +1,1 @@
+# Mini-Project-Django-Bulk-Emailing
